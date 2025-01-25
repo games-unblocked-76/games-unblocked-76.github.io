@@ -1,0 +1,1 @@
+window.open("https://games-unblocked-76.github.io/dump/website-not-working.html", "_self")
